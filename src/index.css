@@ -1,0 +1,32 @@
+
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+button{
+  font-size: 16px;
+  padding: 0.6em 1em ;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.maxCont{
+  max-width: 1170px;
+  margin: auto;
+}
+.header{
+  font-size: 16px;
+  min-height: 60px;
+  display: flex;
+  background: #6687e4;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 30px auto;
+}
+.header *{
+  text-decoration: none;
+  color: #fff;
+border: 2px solid rgba(0, 0, 0, 0.422);
+margin-right: 20px;
+padding: 0.6em 1em;
+border-radius: 10px;
+}
